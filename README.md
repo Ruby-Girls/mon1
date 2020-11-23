@@ -1,6 +1,8 @@
 # janefield wet litter collection project
 ## litter GPS hotspot mapping
 
+go to web page example
+https://ruby-girls.github.io/mon1/
 
 this is a document explaining about the janefield wetland project related to litter collection
 
